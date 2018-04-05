@@ -1,0 +1,26 @@
+Id,Name,Price,EcoLabelled
+0,mjölk,8.50,false
+1,mjölk,9.90,true
+2,bröd,20,false
+3,stor mjölk,18,false
+4,flingor,20,true
+5,gurka,8,true
+6,ägg,14.90,false
+7,ägg,16.90,true
+8,frysta kräftor,49.90,true
+9,cola,18,false
+10,cider,19,true
+11,fil,16,false
+12,tomat,5,true
+13,bacon,16.50,false
+14,skinka,20,false
+15,potatis,2.30,true
+16,morot,3,true
+17,sallad,15.90,true
+18,kyckling,29.90,true
+19,prinskorv,14.90,false
+20,lätt öl,19.90,false
+21,lax,29.90,true
+22,rökt makrill,16.90,true
+23,röd paprika,2.90,true
+24,korv pålägg,16.90,false
